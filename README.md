@@ -24,10 +24,11 @@ IBM Data Science Professional Certificate capstone project analyzing and predict
 ## Repository structure
 
 - `notebooks/` - completed and executed Jupyter notebooks
-- `dashboard/` - Plotly Dash application and screenshots
+- `dashboard/` - Plotly Dash application, required CSV dataset, and screenshots
 - `maps/` - exported interactive Folium map
 - `final-deliverables/` - final presentation and written report in editable and PDF formats
 
 ## Final deliverables
 
-See `final-deliverables/SpaceX_Falcon9_Final_Presentation.pdf` and `final-deliverables/SpaceX_Falcon9_Final_Report.pdf`.
+See `final-deliverables/SpaceX_Falcon9_Final_Presentation.pdf` and `final-deliverables/SpaceX_Falcon9_Final_Report.pdf`. Editable local source files are intentionally excluded from this grading repository.
+
