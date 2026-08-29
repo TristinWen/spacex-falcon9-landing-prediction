@@ -26,9 +26,9 @@ IBM Data Science Professional Certificate capstone project analyzing and predict
 - `notebooks/` - completed and executed Jupyter notebooks
 - `dashboard/` - Plotly Dash application, required CSV dataset, and screenshots
 - `maps/` - exported interactive Folium map
-- `final-deliverables/` - single final presentation-style PDF submitted for grading
+- `final-deliverables/` - final peer-graded presentation in PDF format
 
 ## Final deliverables
 
-Upload `final-deliverables/Data_Science_Capstone_Project_Report.pdf` to the IBM final assignment. The PDF follows rubric items 1.1-1.15 in order and contains the project URL, methods, required result charts, model evaluation, and conclusion. Editable local source files are intentionally excluded from this grading repository.
+Upload `final-deliverables/SpaceX_Falcon9_Peer_Graded_Final_Presentation.pdf` to the peer-graded final assignment. The 29-slide presentation tells the complete project story and includes the project URL, methodology, EDA and SQL results, Folium and Dash evidence, predictive analysis, conclusions, and future work. Editable local source files are intentionally excluded from this grading repository.
 
